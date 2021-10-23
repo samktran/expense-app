@@ -1,3 +1,5 @@
+import "./ExpenseItems.css";
+
 function ExpenseItems(props) {
   return;
   <div className="expense-item">
